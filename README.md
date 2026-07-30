@@ -1,2 +1,2 @@
-![Uploading my bad sir.png…]()
+IM TRYING VTO WORK O? IT
 
