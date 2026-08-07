@@ -1,3 +1,3 @@
-$${\color{#603853} \mathrm{Not}}$$$${\color{#6F3655} \mathrm{My}}$$$${\color{#7B3356} \mathrm{Art}}$$$${\color{#923A5D} \mathrm{!}}$$
-$${\color{#9D3C5E} \mathrm{!}}$$$${\color{#A8415C} \mathrm{!}}$$
+
+${\color{#603853}Not}$ ${\color{#36F3655}My}$ ${\color{#7B3356}Art}$ ${\color{#4923A5D}!}$ ${\color{#79D3C5E}!}$ ${\color{#A8415C}!}$
 
